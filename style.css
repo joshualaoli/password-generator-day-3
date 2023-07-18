@@ -78,11 +78,11 @@ body {
     background: #c057c0;
 }
 .pass-indicator#medium::before {
-    width: 20%;
+    width: 50%;
     background: #f1c80b;
 }
 .pass-indicator#strong::before {
-    width: 20%;
+    width: 100%;
     background: #43a407;
 }
 .wrapper .pass-length {
